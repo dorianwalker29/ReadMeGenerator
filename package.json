@@ -1,0 +1,27 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "creates a professional readme for developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorianwalker29/ReadMeGenerator.git"
+  },
+  "keywords": [
+    "read",
+    "me",
+    "generator"
+  ],
+  "author": "dorian walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorianwalker29/ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/dorianwalker29/ReadMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  }
+}
